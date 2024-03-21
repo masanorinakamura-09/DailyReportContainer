@@ -32,6 +32,9 @@ thyneleaf 3.0.5<br>
 以下のURLにアクセスし、ログイン画面が表示されます。<br>
 http://localhost:8080/login<br>
 ユーザー名、パスワードを入力し、ログインします。<br>
+管理者ユーザー　ユーザー名[ktaro]、パスワード[ktaro]<br>
+課長ユーザー　ユーザー名[ttaro]、パスワード[ttaro]<br>
+一般ユーザー　ユーザー名[ataro]、パスワード[ataro]<br>
 
 # Author
 
