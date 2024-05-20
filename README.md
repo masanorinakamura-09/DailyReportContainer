@@ -21,7 +21,7 @@ Spring Tool Suite 4.18.0.RELEASE<br>
 MySQL JDBC Driver 8.0.30<br>
 Spring boot 2.7.9<br>
 lombok 1.18.26<br>
-thyneleaf 3.0.5<br>
+thymeleaf 3.0.5<br>
 
 # Installation
 
