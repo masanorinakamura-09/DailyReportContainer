@@ -25,12 +25,12 @@ thymeleaf 3.0.5<br>
 
 # Installation
 
-解凍したフォルダ内のDailyReportSystem-0.0.1-SNAPSHOT.jarを起動してください。
+Dockerコンテナを作成して起動してください。
 
 # Usage
 
 以下のURLにアクセスし、ログイン画面が表示されます。<br>
-http://localhost:8080/login<br>
+http://localhost/login<br>
 ユーザー名、パスワードを入力し、ログインします。<br>
 管理者ユーザー　ユーザー名[ktaro]、パスワード[ktaro]<br>
 課長ユーザー　ユーザー名[ttaro]、パスワード[ttaro]<br>
